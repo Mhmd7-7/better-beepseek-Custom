@@ -1,6 +1,6 @@
 # Better DeepSeek Custom
 
-An enhanced version of Better DeepSeek with additional features, improvements, and fixes.
+An enhanced browser extension based on Better DeepSeek, featuring new functionality and UI improvements.
 
 ## Features
 
@@ -14,8 +14,6 @@ This project is based on the original Better DeepSeek project by EdgeTypE.
 Original project:
 https://github.com/EdgeTypE/better-deepseek
 
-This fork adds new features and improvements while keeping the original project as its foundation.
-
 ## License
 
-See the original project for licensing information.
+This project follows the same license as the original project.
